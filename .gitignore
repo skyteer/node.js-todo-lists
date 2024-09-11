@@ -119,3 +119,7 @@ dist
 # IDE - Jetbrains
 .vscode/*
 /.vscode
+
+yarn.lock
+packages.json
+.prettierrc.json
